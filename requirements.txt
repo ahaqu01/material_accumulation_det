@@ -1,0 +1,7 @@
+loguru==0.6.0
+numpy==1.20.2
+opencv_python==4.5.5.64
+#tensorrt==8.0.0.3
+thop==0.0.31.post2005241907
+torch==1.9.0
+torchvision==0.10.0

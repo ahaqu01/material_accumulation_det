@@ -1,0 +1,7 @@
+*.pyc
+*.pth
+model_trt.*
+*.jpg
+material_accumulation_detection.egg-info
+dist
+build
